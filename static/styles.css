@@ -6740,8 +6740,7 @@ body {
     margin: 0;
     padding: 0; }
 
-.last-updates-inner .commit-container {
-  display: none !important;
+.last-updates-inner .commit-container { display: none !important;
   margin: 40px;
   background: #FFFFFF; }
   @media (max-width: 768px) {
