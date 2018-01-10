@@ -2,9 +2,9 @@
   "title": "FireSMP MC Server Status",
   "name": "FireSMP MC Server Status",
   "link": "https://firesmp.com",
-  "repo": "orels1/Red-Portal",
-  "owner": "orels1",
-  "statusRepo": "orels1/status.cogs.red",
+  "repo": "",
+  "owner": "Electromaster",
+  "statusRepo": "Electromaster232/statusreport",
   "services": ["Server", "Voting"],
   "statuses": {
     "operational": "#2ecc71",
@@ -16,5 +16,5 @@
     "degraded": "Degraded perfomance",
     "outage": "Major outage"
   },
-  "footer": "Hosted with ❤️ by GitHub. [orels1/statusreport](http://github.com/orels1/statusreport)"
+  "footer": "https://firesmp.com"
 }
