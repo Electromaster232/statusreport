@@ -1,11 +1,11 @@
 {
-  "title": "Cogs.Red Status",
-  "name": "cogs.red",
-  "link": "http://cogs.red",
+  "title": "FireSMP MC Server Status",
+  "name": "FireSMP MC Server Status",
+  "link": "https://firesmp.com",
   "repo": "orels1/Red-Portal",
   "owner": "orels1",
   "statusRepo": "orels1/status.cogs.red",
-  "services": ["API", "Website", "Parser"],
+  "services": ["Server", "Voting"],
   "statuses": {
     "operational": "#2ecc71",
     "degraded": "#f39c12",
