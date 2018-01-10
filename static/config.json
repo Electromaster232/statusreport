@@ -1,11 +1,11 @@
 {
-  "title": "FireSMP MC Server Status",
-  "name": "FireSMP MC Server Status",
+  "title": "FireSMP Status",
+  "name": "FireSMP Status",
   "link": "https://firesmp.com",
   "repo": "",
   "owner": "Electromaster",
   "statusRepo": "Electromaster232/statusreport",
-  "services": ["Server", "Voting"],
+  "services": ["Server", "Voting", "Website", "MongoDB Database", "DJ-Electro.me"],
   "statuses": {
     "operational": "#2ecc71",
     "degraded": "#f39c12",
