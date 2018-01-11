@@ -8,7 +8,6 @@
   "services": ["Server", "Voting", "Website", "MongoDB Database", "DJ-Electro.me"],
   "statuses": {
     "operational": "#2ecc71",
-    "degraded": "#f39c12",
     "outage": "#e74c3c"
   },
   "statusMessages": {
